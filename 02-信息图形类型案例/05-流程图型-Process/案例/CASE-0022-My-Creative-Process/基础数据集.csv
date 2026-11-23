@@ -1,0 +1,20 @@
+stage_id,stage_name,sequence_order,stage_role,description,evidence_status
+S01,THE STARTING POINT,1,起始状态,正文细节待高清核验,标题可辨
+S02,THE TRIGGER,2,问题触发,正文细节待高清核验,标题可辨
+S03,INVESTIGATION,3,调查,正文细节待高清核验,标题可辨
+S04,RESEARCH,4,研究,含研究关键词组,标题可辨
+S05,IDEATION,5,构思,正文细节待高清核验,标题可辨
+S06,THE SOLUTION,6,方案,正文细节待高清核验,标题可辨
+S07,MANIFESTO,7,宣言/立场,具体内容待高清核验,标题可辨
+S08,THE HYPOTHESIS,8,假设,具体内容待高清核验,标题可辨
+S09,THE LOST GUIDE FOR THE WANDERLUST TRAVELLER,9,总结性成果/主题锚点,底部主标题；与前序阶段的严格关系待核验,标题可辨
+D01,IDENTITY,,研究关键词,阶段归属待高清核验,关键词可辨
+D02,GLOBALIZATION,,研究关键词,阶段归属待高清核验,关键词可辨
+D03,MODERNIZATION,,研究关键词,阶段归属待高清核验,关键词可辨
+D04,CULTURE,,研究关键词,阶段归属待高清核验,关键词可辨
+D05,LOCALITY,,研究关键词,阶段归属待高清核验,关键词可辨
+D06,BRANDING,,研究关键词,阶段归属待高清核验,关键词可辨
+D07,THE GENERIC BROCHURE,,案例/方向标签,与主阶段的关系待核验,文字可辨
+D08,THE INFOGRAPHIC,,案例/方向标签,与主阶段的关系待核验,文字可辨
+D09,THE SKYLINE FRAMEWORK,,案例/方向标签,与主阶段的关系待核验,文字可辨
+D10,TOKYO,,案例/方向标签,具体说明待核验,文字可辨
