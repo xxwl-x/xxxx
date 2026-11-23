@@ -18,8 +18,4 @@
 
 本案例按用户校正归入文字可视化：Strategy、Plan、Logo、Business Card、Letter Head、Brochure、TV、Radio、Print、Website、Social Media、Mobile、Emails 等节点标签及周围说明文字是信息主体；节点、图标和箭头用于组织、关联与解释文字内容。
 
-本案例按用户校正归入文字可视化：Strategy、Plan、Logo、Business Card、Letter Head、Brochure、TV、Radio、Print、Website、Social Media、Mobile、Emails 等节点标签及周围说明文字是信息主体；节点、图标和箭头用于组织、关联与解释文字内容。
-
-本案例按用户校正归入文字可视化：Strategy、Plan、Logo、Business Card、Letter Head、Brochure、TV、Radio、Print、Website、Social Media、Mobile、Emails 等节点标签及周围说明文字是信息主体；节点、图标和箭头用于组织、关联与解释文字内容。
-
 作品以品牌建设过程为主题，展示 Strategy、Plan、Logo、Business Card、Letter Head、Brochure、TV、Radio、Print、Direct Mail、Outdoor、Website、Social Media、SEO/SEM、Banners、Mobile、Emails 等节点。节点之间通过不同样式的箭头表示 Direct Pathway、Indirect Pathway 和 Interesting Facts。它不是严格的单向线性步骤清单，而是以 Logo 为中心的多节点、多路径关联图。正式主表现归入05流程图型；五大基础逻辑暂定编目型，待有更完整的原始关系说明时复核。
