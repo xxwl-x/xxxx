@@ -6,4 +6,6 @@
 
 - [CASE-0021｜Steps of the Branding Process](../../05-流程图型-Process/案例/CASE-0021-Steps-of-the-Branding-Process/README.md)（辅助标签；节点图标解释品牌资产和传播媒介）
 
+- [CASE-0027｜Chess Rules](./CASE-0027-Chess-Rules/README.md)（棋子类别、移动规则、特殊走法的棋盘示意）
+
 同一案例只保存一份正式档案，其他标签通过链接交叉索引。
