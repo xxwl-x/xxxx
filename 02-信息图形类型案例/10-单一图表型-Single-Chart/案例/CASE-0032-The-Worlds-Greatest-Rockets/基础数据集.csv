@@ -1,0 +1,19 @@
+vehicle_id,vehicle_name,length_m,year_or_era,status_as_of_2015,verification_status
+V01,Apollo LM Ascent,,,,图面可辨；数值未核
+V02,Morpheus,,,,图面可辨；数值未核
+V03,V2 Rocket,,,,图面可辨；数值未核
+V04,DC-X,,,,图面可辨；数值未核
+V05,Mercury-Redstone,,,,图面可辨；数值未核
+V06,Juno 1,,,,图面可辨；数值未核
+V07,Vanguard,,,,图面可辨；数值未核
+V08,Black Arrow,,,,图面可辨；数值未核
+V09,Shavit,,,,图面可辨；数值未核
+V10,Falcon 1,,,,图面可辨；数值未核
+V11,Star-1,,,,图面可辨；数值未核
+V12,Sputnik,,,,图面可辨；数值未核
+V13,Space Shuttle,,,,图面可辨；数值未核
+V14,Saturn V,,,,图面可辨；数值未核
+V15,N1,,,,图面可辨；数值未核
+V16,Energia,,,,图面可辨；数值未核
+V17,Long March,,,,图面可辨；具体型号需核
+V18,SLS,,,,图面可辨；具体型号需核
