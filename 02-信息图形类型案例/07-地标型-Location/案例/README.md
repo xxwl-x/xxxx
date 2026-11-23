@@ -7,4 +7,6 @@
 - [CASE-0009｜The last days of rosewood](../14-手稿型-Hand-drawn/案例/CASE-0009-The-last-days-of-rosewood/README.md)（辅助地理表现标签；正式档案位于 14 手稿型）
 - [CASE-0017｜Arteries of the city](./CASE-0017-Arteries-of-the-city/README.md)（地图为主体表现；道路网络双变量专题地图；基础逻辑主归属为地理图型）
 
+- [CASE-0026｜BLACK TEA](../../05-流程图型-Process/案例/CASE-0026-Black-Tea-Making/README.md)（辅助地理表现：右上世界红茶产区小地图；正式档案位于05流程图型）
+
 本目录只通过链接交叉索引，不重复保存同一案例。
