@@ -4,6 +4,6 @@
 
 ## 已归档案例
 
-- [CASE-0009｜The last days of rosewood](../14-手稿型-Hand-drawn/案例/CASE-0009-The-last-days-of-rosewood/README.md)（辅助地理表现标签；正式档案位于 14 手稿型）
+- [CASE-0009｜The last days of rosewood](../14-手稿型-Hand-drawn/案例/CASE-0009-The-last-days-of-rosewood/README.md)（辅助地理表现标签；正式档案位于 14 手稿型）\n- [CASE-0017｜Arteries of the city](./CASE-0017-Arteries-of-the-city/README.md)（地图为主体表现；道路网络双变量专题地图；基础逻辑主归属为地理图型）
 
 本目录只通过链接交叉索引，不重复保存同一案例。
