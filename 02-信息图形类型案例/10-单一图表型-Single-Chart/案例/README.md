@@ -4,6 +4,9 @@
 
 ## 已归档案例
 
-- [CASE-0020｜Fast Food Nation](../../06-比较型-Comparison/案例/CASE-0020-Fast-Food-Nation/README.md)（辅助标签；单一打包气泡图承担主要定量证据）
+- [CASE-0031｜Sky’s the limit](./CASE-0031-Skys-the-Limit/README.md)（建筑实物轮廓高度比例比较；另含地图和方格图辅助模块）
+- [CASE-0032｜The World’s Greatest Rockets](./CASE-0032-The-Worlds-Greatest-Rockets/README.md)（多行火箭实物轮廓尺寸比较）
+
+- [CASE-0020｜Fast Food Nation](../../11-文字可视化-Visualized-Text/案例/CASE-0020-Fast-Food-Nation/README.md)（辅助标签；单一打包气泡图承担主要定量证据）
 
 同一案例只保存一份正式档案，其他标签通过链接交叉索引。
