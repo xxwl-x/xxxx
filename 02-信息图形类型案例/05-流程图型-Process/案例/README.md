@@ -4,6 +4,6 @@
 
 ## 已归档案例
 
-- [CASE-0021｜Steps of the Branding Process](./CASE-0021-Steps-of-the-Branding-Process/README.md)（以Logo为视觉中心的多路径品牌建设关系图）
+- CASE-0021 已调整主归档至 [11｜文字可视化](../../11-文字可视化-Visualized-Text/案例/CASE-0021-Steps-of-the-Branding-Process/README.md)，本目录仅作为辅助标签检索。
 
 同一案例只保存一份正式档案，其他标签通过链接交叉索引。
