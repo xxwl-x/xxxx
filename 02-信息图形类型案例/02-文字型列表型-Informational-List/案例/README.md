@@ -4,7 +4,7 @@
 
 ## 已归档案例
 
-暂无已归档案例。后续新增案例时，在此登记链接；同一案例只保存一份正式档案，其他标签通过链接交叉索引。
+- [CASE-0013｜Los Cuatro Genios — The Beatles](./CASE-0013-Los-Cuatro-Genios-The-Beatles/README.md)（正式归档；主表现文字型／列表型，基础逻辑编目型；原图尚未上传）
 
 
 - [CASE-0011｜A world of tastes](../../01-混合型-Mixed-Charts/案例/CASE-0011-A-world-of-tastes/README.md)（图解式国家/菜肴目录；字母表型为五大主逻辑，列表型为辅助表现标签）
