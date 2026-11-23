@@ -14,6 +14,7 @@
 
 ## 现有案例
 - [案例 001｜Dog rules（2018 狗年信息图形）](./01-混合型信息图形/案例001-Dog-rules-2018-分析.md)
+- [案例 002｜They are very close … and you can't escape them（蟑螂科普信息图形）](./01-混合型信息图形/案例002-They-are-very-close-蟑螂科普-分析.md)
 
 ## 案例治理文档
 - [案例索引](./案例索引.md)
