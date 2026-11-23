@@ -1,0 +1,4 @@
+record_id,record_type,title,publication,section,page_region,verification_status
+A01,article,The Pope Vs. the Pill,The New York Times,Sunday Opinion,left,visible_title
+A02,article,"Too Big to Fail, or to Survive",The New York Times,Sunday Opinion,center,visible_title
+A03,article,"Stalking, Sniffing, Swooning",The New York Times,Sunday Opinion,right,visible_title
