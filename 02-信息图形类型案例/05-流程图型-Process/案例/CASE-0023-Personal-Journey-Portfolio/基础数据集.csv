@@ -1,0 +1,12 @@
+record_id,record_type,label,year_label,route_order,description,evidence_status
+M01,milestone,起始/个人经历起点,,1,道路下方起始场景；对应栏目待核验,版面可见
+M02,milestone,教育经历,,2,与Education栏目及校园建筑场景关联；年份待核验,标题可辨/正文模糊
+M03,milestone,专业能力,,3,与Specialties栏目及技能柱形图关联,标题可辨
+M04,milestone,奖项/成果,,4,Awards栏目；具体奖项正文待核验,标题可辨/正文模糊
+M05,milestone,目标/未来方向,,5,与Target栏目关联；具体目标文字待核验,标题可辨/正文模糊
+S01,profile_section,ABOUT ME,,,个人介绍；正文待核验,标题可辨/正文模糊
+S02,profile_section,CONTACT,,,联系方式；内容不转录,标题可辨/隐私信息模糊
+S03,profile_section,EDUCATION,,,教育信息；正文待核验,标题可辨/正文模糊
+S04,profile_section,SPECIALTIES,,,专业技能栏目；含技能缩写与无刻度柱形图,标题可辨
+S05,profile_section,AWARDS,,,奖项栏目；具体内容待核验,标题可辨/正文模糊
+S06,profile_section,TARGET,,,目标栏目；正文待核验,标题可辨/正文模糊
