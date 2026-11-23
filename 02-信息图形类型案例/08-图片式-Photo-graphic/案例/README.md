@@ -4,4 +4,7 @@
 
 ## 已归档案例
 
-暂无已归档案例。后续新增案例时，在此登记链接；同一案例只保存一份正式档案，其他标签通过链接交叉索引。
+- [CASE-0028｜AGLC Today / Our Priorities / Our Future](./CASE-0028-AGLC-Today-Priorities-Future/README.md)（摄影分镜＋线描覆盖＋KPI数字）
+- [CASE-0029｜The ageing problem / The weight problem / NHS Staffing Increases](./CASE-0029-Ageing-Weight-NHS-Photographic-Statistics/README.md)（摄影剪裁蒙版柱形图＋医疗人员数字图）
+
+每个案例仅保留一份主档案，其他标签使用链接交叉索引。
