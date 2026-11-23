@@ -1,0 +1,5 @@
+record_id,record_type,entity_name,category,attribute_name,attribute_value,unit,source_location,verification_status
+M01,member,John Lennon,The Beatles,name,John Lennon,,upper-left,visible_on_image
+M02,member,Paul McCartney,The Beatles,name,Paul McCartney,,upper-right,visible_on_image
+M03,member,Ringo Starr,The Beatles,name,Ringo Starr,,middle-left,visible_on_image
+M04,member,George Harrison,The Beatles,name,George Harrison,,middle-right,visible_on_image
