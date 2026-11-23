@@ -1,0 +1,7 @@
+annotation_id,side,approx_topic,mentioned_example,linked_layer_id,verification_status
+A01,left,facial attraction / recognition,Badoo,L01,图面陈述可辨／事实未核验
+A02,right,facial microexpression analysis,HeyStax,L02,图面陈述可辨／事实未核验
+A03,left,AI-assisted matchmaking,Bernie AI,L03,图面陈述可辨／事实未核验
+A04,right,emotional companionship chatbots,Replika / Woebot,L04,图面陈述可辨／具体引线端点待核
+A05,left,voice assistants / proactive support,Alexa / Google Home / Siri,L05,图面陈述可辨／事实未核验
+A06,right,robot companionship,Kirobo,L06,图面陈述可辨／具体引线端点待核
