@@ -1,1 +1,19 @@
 node_id,label,node_group,icon_type,visual_position,evidence_status
+N01,STRATEGY,策略与规划,cloud/strategy,上方中央,图面可读
+N02,PLAN,策略与规划,chart/plan,左上,图面可读
+N03,LOGO,核心品牌识别,triangle/logo,中央,图面可读
+N04,BUSINESS CARD,品牌应用物料,card,business-card上方偏右,图面可读
+N05,LETTER HEAD,品牌应用物料,document,右上,图面可读
+N06,BROCHURE,品牌应用物料,brochure,右侧中上,图面可读
+N07,TV,传统传播媒介,television,左侧中上,图面可读
+N08,RADIO,传统传播媒介,radio,左侧中部,图面可读
+N09,PRINT,传统传播媒介,print,中央偏左,图面可读
+N10,DIRECT MAIL,直接营销媒介,mail,中央偏右,图面可读
+N11,OUTDOOR,传统传播媒介,outdoor,左下偏中,图面可读
+N12,WEBSITE,数字传播媒介,computer,中央偏下,图面可读
+N13,PREMIUMS,品牌促销物料,gift/premium,右侧偏下,图面可读
+N14,SOCIAL MEDIA,数字传播媒介,people/social,左下,图面可读
+N15,SEO/SEM,数字传播媒介,search,下方偏左,图面可读
+N16,BANNERS,数字传播媒介,banner,下方偏右,图面可读
+N17,MOBILE,数字传播媒介,mobile,右下,图面可读
+N18,EMAILS,数字传播媒介,email,底部中央,图面可读
