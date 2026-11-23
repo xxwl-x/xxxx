@@ -4,4 +4,7 @@
 
 ## 已归档案例
 
-暂无已归档案例。后续新增案例时，在此登记链接；同一案例只保存一份正式档案，其他标签通过链接交叉索引。
+- [CASE-0035｜Cosmic Journeys](./CASE-0035-Cosmic-Journeys/README.md)（强编年＋目的地/机构编目）
+- [CASE-0036｜CrowdStrike Global Threats 2013](./CASE-0036-CrowdStrike-Global-Threats-2013/README.md)（年度范围＋强分类/关系；编年证据较弱的边界案例）
+
+同一案例只保存一份主档案；其他分类采用文本链接交叉索引。
