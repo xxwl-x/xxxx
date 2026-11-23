@@ -4,4 +4,7 @@
 
 ## 已归档案例
 
-暂无已归档案例。后续新增案例时，在此登记链接；同一案例只保存一份正式档案，其他标签通过链接交叉索引。
+- [CASE-0033｜Black-and-White Geometric Resume](./CASE-0033-Black-White-Geometric-Resume/README.md)（黑白实验字体、肖像拼贴、几何网格）
+- [CASE-0034｜Red-and-Cream Modular Visual Resume](./CASE-0034-Red-Cream-Modular-Visual-Resume/README.md)（红米白双色、模块化网格、巨型姓名与肖像）
+
+每个CASE只有一份主归档，其他标签使用链接交叉索引。
