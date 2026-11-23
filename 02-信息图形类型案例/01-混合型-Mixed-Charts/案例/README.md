@@ -4,7 +4,6 @@
 
 ## 已归档案例
 - [CASE-0001｜Dog rules（2018 狗年信息图形）](./CASE-0001-Dog-rules-2018/README.md)
-- [CASE-0002｜They are very close … and you can't escape them（蟑螂科普）](./CASE-0002-They-are-very-close-蟑螂科普/README.md)
 - [CASE-0003｜On the road（“一带一路”交通基础设施）](./CASE-0003-On-the-road-一带一路交通基础设施/README.md)
 - [CASE-0004｜The cost of a family in Hong Kong](./CASE-0004-The-cost-of-a-family-in-Hong-Kong/README.md)
 - [CASE-0005｜What colour is Oscar?](./CASE-0005-What-colour-is-Oscar/README.md)
