@@ -4,6 +4,9 @@
 
 ## 已归档案例
 
-- CASE-0021 已调整主归档至 [11｜文字可视化](../../11-文字可视化-Visualized-Text/案例/CASE-0021-Steps-of-the-Branding-Process/README.md)，本目录仅作为辅助标签检索。
+- [CASE-0022｜My Creative Process](./CASE-0022-My-Creative-Process/README.md)（连续曲线路径串联设计过程阶段）
+- [CASE-0023｜Personal Journey Portfolio](./CASE-0023-Personal-Journey-Portfolio/README.md)（道路路径串联个人经历与里程碑）
+
+CASE-0021 的正式主档案归入 11｜文字可视化，本目录仅作辅助标签交叉检索。
 
 同一案例只保存一份正式档案，其他标签通过链接交叉索引。
