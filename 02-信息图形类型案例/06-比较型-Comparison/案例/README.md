@@ -5,5 +5,6 @@
 ## 已归档案例
 
 - [CASE-0006｜The height of social values](./CASE-0006-The-height-of-social-values/README.md)
+- [CASE-0020｜Fast Food Nation](./CASE-0020-Fast-Food-Nation/README.md)（按类别分组的Top 50快餐品牌销售额气泡比较）
 
 其他表现标签通过主案例链接索引，不复制原图。
