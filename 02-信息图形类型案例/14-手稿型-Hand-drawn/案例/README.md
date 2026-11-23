@@ -4,4 +4,6 @@
 
 ## 已归档案例
 
-暂无已归档案例。后续新增案例时，在此登记链接；同一案例只保存一份正式档案，其他标签通过链接交叉索引。
+- [CASE-0009｜The last days of rosewood](./案例/CASE-0009-The-last-days-of-rosewood/README.md)
+
+本案例已保存 README、A—E 分析、字段模板 CSV、数据字典和原图来源/权利说明；原图二进制未上传，数据 CSV 当前仅有表头，0 条观测记录。
