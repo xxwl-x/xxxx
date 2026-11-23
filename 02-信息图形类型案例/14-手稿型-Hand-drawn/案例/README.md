@@ -12,3 +12,5 @@
 
 本案例已保存 README、A—E 分析、空白数据字段模板、数据字典和原图来源/权利说明；原图未上传，CSV 为 0 条观测记录。
 
+
+- [CASE-0012｜Hippocampus whitei — Seahorse Fossil](../../12-解剖型-Anatomical/案例/CASE-0012-Hippocampus-Whitei-Seahorse-Fossil/README.md)（手稿型为辅助表现；主归档位于 12 解剖型）
