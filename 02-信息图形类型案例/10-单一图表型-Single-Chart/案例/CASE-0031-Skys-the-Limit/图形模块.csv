@@ -1,0 +1,5 @@
+module_id,module_name,visual_method,measure,reading_role,evidence_status
+M01,China's tallest buildings,Geographic vertical height lines,building height / construction status,辅助空间分布,图面可辨
+M02,Top 100 skyscrapers by 2020,100-unit waffle,China=56 / Rest of world=44,辅助数量份额,图面可辨；属于历史预测
+M03,Sky City,project facts callout,planned project attributes,条件性项目信息,标题可辨；小字待核
+M04,World's tallest,proportional silhouettes,building heights,主要视觉高度比较,建筑外形及部分名称可辨
