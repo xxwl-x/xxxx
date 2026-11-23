@@ -4,8 +4,4 @@
 
 ## 已归档案例
 
-- [CASE-0012｜Hippocampus whitei — Seahorse Fossil](./CASE-0012-Hippocampus-Whitei-Seahorse-Fossil/README.md)
-  - 主表现形式：示意图型/技术标注图
-  - 五大基础组织逻辑：层级型（整体造型—构件—局部连接）
-  - 辅助表现：手稿型
-  - 原图二进制未上传；来源与权利说明已保存。
+暂无已归档案例。后续新增案例时，在此登记链接；同一案例只保存一份正式档案，其他标签通过链接交叉索引。
