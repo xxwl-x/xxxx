@@ -9,3 +9,9 @@
   - 基础组织逻辑：层级型（整体—部分）
   - 辅助表现：时间轴、比较图、生命周期/行为示意
   - 原图二进制文件尚待归档。
+
+- [CASE-0012｜Hippocampus whitei — Seahorse Fossil](./CASE-0012-Hippocampus-Whitei-Seahorse-Fossil/README.md)
+  - 主表现形式：解剖型
+  - 五大基础组织逻辑：层级型（整体—局部—结构关系）
+  - 辅助表现：手稿型；工程标注为辅助表达手法
+  - 原图二进制未上传；来源与权利说明已保存。
