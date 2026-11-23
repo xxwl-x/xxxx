@@ -1,0 +1,7 @@
+piece_id,piece_name,role_in_rules,evidence_status
+P01,King,棋子类别与移动规则主体,名称与图形可辨
+P02,Queen,棋子类别与移动规则主体,名称与图形可辨
+P03,Rook,棋子类别与移动规则主体,名称与图形可辨
+P04,Bishop,棋子类别与移动规则主体,名称与图形可辨
+P05,Knight,棋子类别与移动规则主体,名称与图形可辨
+P06,Pawn,棋子类别与移动规则主体,名称与图形可辨
