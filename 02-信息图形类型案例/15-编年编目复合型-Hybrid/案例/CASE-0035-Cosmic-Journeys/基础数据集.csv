@@ -1,0 +1,11 @@
+record_id,destination_category,mission_or_object,year_or_period,event_type,evidence_status
+M01,Venus,Venus flyby missions,,飞越/探测集合,图示可辨但逐项年份待核
+M02,Moon,Lunar missions,,月球任务集合,图示可辨
+M03,Mars,Mars missions,,火星任务集合,图示可辨
+M04,Jupiter,Pioneer 10,1973,木星飞越,图面提及/具体日期待核
+M05,Jupiter,Galileo,1995,木星轨道探测,图面提及
+M06,Jupiter,Juno,2016,计划抵达,属于图面历史预测语境
+M07,Saturn,Cassini,2004,土星任务,图面可辨
+M08,Outer planets,Voyager 1,1977,发射,图面可辨
+M09,Outer planets,Voyager 2,1977,发射,图面可辨
+M10,Pluto,New Horizons,2015,冥王星飞越,图面可辨
