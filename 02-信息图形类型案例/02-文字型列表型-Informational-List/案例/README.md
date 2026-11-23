@@ -4,7 +4,10 @@
 
 ## 已归档案例
 
-- [CASE-0013｜Los Cuatro Genios — The Beatles](./CASE-0013-Los-Cuatro-Genios-The-Beatles/README.md)（正式归档；主表现文字型／列表型，基础逻辑编目型；原图尚未上传）
+- [CASE-0013｜Los Cuatro Genios — The Beatles](./CASE-0013-Los-Cuatro-Genios-The-Beatles/README.md)（图文百科与列表型；基础逻辑编目型）
+- [CASE-0014｜New York Times Sunday Opinion — Too Big to Fail, or to Survive](./CASE-0014-New-York-Times-Sunday-Opinion-Winding-Path/README.md)（长篇社论文字分栏型；基础逻辑编目型）
+
+> 两个案例已完成文字分析；第三方原图未上传至公开仓库。
 
 
 - [CASE-0011｜A world of tastes](../../01-混合型-Mixed-Charts/案例/CASE-0011-A-world-of-tastes/README.md)（图解式国家/菜肴目录；字母表型为五大主逻辑，列表型为辅助表现标签）
