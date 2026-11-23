@@ -4,4 +4,6 @@
 
 ## 已归档案例
 
-暂无已归档案例。后续新增案例时，在此登记链接；同一案例只保存一份正式档案，其他标签通过链接交叉索引。
+- [CASE-0021｜Steps of the Branding Process](./CASE-0021-Steps-of-the-Branding-Process/README.md)（以Logo为视觉中心的多路径品牌建设关系图）
+
+同一案例只保存一份正式档案，其他标签通过链接交叉索引。
