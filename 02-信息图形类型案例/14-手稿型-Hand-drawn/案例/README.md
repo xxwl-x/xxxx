@@ -7,3 +7,7 @@
 - [CASE-0009｜The last days of rosewood](./案例/CASE-0009-The-last-days-of-rosewood/README.md)
 
 本案例已保存 README、A—E 分析、字段模板 CSV、数据字典和原图来源/权利说明；原图二进制未上传，数据 CSV 当前仅有表头，0 条观测记录。
+
+- [CASE-0010｜Dead in life, alive in death](./案例/CASE-0010-Dead-in-life-alive-in-death/README.md)
+
+本案例已保存 README、A—E 分析、空白数据字段模板、数据字典和原图来源/权利说明；原图未上传，CSV 为 0 条观测记录。
