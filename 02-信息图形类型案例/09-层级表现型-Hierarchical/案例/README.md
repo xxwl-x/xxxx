@@ -5,5 +5,6 @@
 ## 已归档案例
 
 - [CASE-0007｜Satellites network](./CASE-0007-Satellites-network/README.md)
+- [CASE-0030｜LOVE：AI and Relationships](./CASE-0030-Love-AI-Relationships-Ribbon/README.md)（螺旋丝带：总主题—分层场景—相关AI实例及引线说明）
 
 其他表现标签通过主案例链接交叉索引，不重复保存案例。
