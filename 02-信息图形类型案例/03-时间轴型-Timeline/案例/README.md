@@ -6,4 +6,6 @@
 
 - [CASE-0015｜Once upon a time in HK](./CASE-0015-Once-upon-a-time-in-HK/README.md)（多行历史时间带＋连续场景插画；编年型底层逻辑）
 
+- [CASE-0016｜BAUHAUS：Walter Gropius](./CASE-0016-BAUHAUS-Walter-Gropius/README.md)（环形/弧形人物时间轴；地图与建筑作品为辅助层）
+
 同一案例只保存一份正式档案，其他标签通过链接交叉索引。
