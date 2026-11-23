@@ -1,0 +1,8 @@
+edge_id,process_id,from_step,to_step,relation_type,evidence_status
+E01,P01,Picking,Withering,sequence,图面左侧顺序可辨
+E02,P01,Withering,Rolling,sequence,图面左侧顺序可辨
+E03,P01,Rolling,Fermentation_and_Drying,sequence,图面左侧顺序可辨
+E04,P01,Fermentation_and_Drying,Attracting_and_Packing,sequence,图面左侧顺序可辨
+E05,P02,Preheat,Put_in_Tea,sequence,主路径编号可辨
+E06,P02,Put_in_Tea,Soak_Tea,sequence,主路径编号可辨
+E07,P02,Soak_Tea,Pour_Tea,sequence,主路径编号可辨
