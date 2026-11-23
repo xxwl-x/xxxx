@@ -1,0 +1,6 @@
+record_id,record_type,start_year,end_year,date_label_original,timeline_band,event_title,event_description,visual_scene,verification_status
+B01,band,1903,1923,约1903—1923,1,,,,range_inferred_from_visible_nodes
+B02,band,1925,1945,约1925—1945,2,,,,range_inferred_from_visible_nodes
+B03,band,1946,1967,约1946—1967,3,,,,range_inferred_from_visible_nodes
+B04,band,1969,1990,约1969—1990,4,,,,range_inferred_from_visible_nodes
+B05,band,1991,2012,约1991—2012,5,,,,range_inferred_from_visible_nodes
