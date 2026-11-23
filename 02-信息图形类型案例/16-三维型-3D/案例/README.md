@@ -4,4 +4,7 @@
 
 ## 已归档案例
 
-- [CASE-0018｜The High-Rise Zoo](./CASE-0018-The-High-Rise-Zoo/README.md)（轴测建筑分层；主表现16三维型，基础逻辑层级型）\n- [CASE-0019｜Casino Infographic Isometric](./CASE-0019-Casino-Infographic-Isometric/README.md)（老虎机/赌场模块爆炸图；主表现16三维型，基础逻辑层级型）\n\n同一案例只保存一份正式档案，其他标签通过链接交叉索引。
+- [CASE-0018｜The High-Rise Zoo](./CASE-0018-The-High-Rise-Zoo/README.md)（轴测建筑分层；主表现16三维型，基础逻辑层级型）
+- [CASE-0019｜Casino Infographic Isometric](./CASE-0019-Casino-Infographic-Isometric/README.md)（老虎机/赌场模块爆炸图；主表现16三维型，基础逻辑层级型）
+
+同一案例只保存一份正式档案，其他标签通过链接交叉索引。
