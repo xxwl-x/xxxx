@@ -1,0 +1,11 @@
+vehicle_type_id,vehicle_type,licensed_count_2011,change_count_since_2000,change_pct_since_2000,verification_status
+V01,Motorcycle,,,,category_visible_numeric_values_not_transcribed
+V02,Private car,,,,category_visible_numeric_values_not_transcribed
+V03,Taxi,,,,category_visible_numeric_values_not_transcribed
+V04,Bus (franchised),,,,category_visible_numeric_values_not_transcribed
+V05,"Bus (non-franchised, private)",,,,category_visible_numeric_values_not_transcribed
+V06,Goods vehicle,,,,category_visible_numeric_values_not_transcribed
+V07,Light bus (public),,,,category_visible_numeric_values_not_transcribed
+V08,Light bus (private),,,,category_visible_numeric_values_not_transcribed
+V09,Government vehicle,,,,category_visible_numeric_values_not_transcribed
+V10,Total,,,,category_visible_numeric_values_not_transcribed
