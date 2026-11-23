@@ -1,0 +1,9 @@
+node_id,parent_id,node_type,depth,order_index,label,visual_scene,evidence_status
+ROOT,,root,0,0,LOVE / AI and relationships,top heart object,图面可辨
+L01,ROOT,layer,1,1,I CAN SEE IT IN YOUR EYES,facial recognition / attraction miniature scene,丝带文字可辨／场景归纳
+L02,ROOT,layer,1,2,I CAN SEE IT IN YOUR SMILE,screen / video connection scene,丝带文字可辨／场景归纳
+L03,ROOT,layer,1,3,YOU'RE ALL I'VE EVER WANTED,AI-assisted matching / group scene,丝带文字可辨／场景归纳
+L04,ROOT,layer,1,4,'CAUSE YOU KNOW JUST WHAT TO SAY,chatbots / messaging scene,丝带文字可辨／场景归纳
+L05,ROOT,layer,1,5,AND YOU KNOW JUST WHAT TO DO,virtual assistants / domestic scene,丝带文字可辨／场景归纳
+L06,ROOT,layer,1,6,AND I WANT TO TELL YOU SO MUCH,companion scene,丝带文字可辨／场景归纳
+L07,ROOT,layer,1,7,I LOVE YOU,concluding ribbon tail,丝带文字可辨
