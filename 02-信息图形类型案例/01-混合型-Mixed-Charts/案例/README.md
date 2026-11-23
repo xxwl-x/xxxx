@@ -8,6 +8,6 @@
 - [CASE-0004｜The cost of a family in Hong Kong](./CASE-0004-The-cost-of-a-family-in-Hong-Kong/README.md)
 - [CASE-0005｜What colour is Oscar?](./CASE-0005-What-colour-is-Oscar/README.md)
 
-> 目前五个案例均有分析文档；原图二进制、基础数据集 CSV 与数据字典尚未完整归档。请以各 CASE 的 README 状态为准。
+> 当前目录正式归档的案例为 CASE-0001、CASE-0003、CASE-0004、CASE-0005 和 CASE-0011。原图二进制、基础数据集 CSV 与数据字典尚未完整归档；请以各 CASE 的 README 状态为准。
 
 - [CASE-0011｜A world of tastes](./CASE-0011-A-world-of-tastes/README.md)（五大基础逻辑主归属：字母表型；国家名称索引、菜肴图解目录、食材统计与世界地图组合）
