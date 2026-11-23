@@ -1,0 +1,6 @@
+record_id,module_name,entity_or_group,time_scope,visual_form,evidence_status
+D01,Per Industry,industry categories,2013,radial chart,可辨分类主题；具体行业数字待核
+D02,Adversary Activity Per Industry,adversary and sector relationships,2013,curved link diagram,图中大量连线；精确边表待核
+D03,Adversary Targets Geographically,countries and regions,2013,world map with bubbles,存在地理点与大小编码；数值待核
+D04,Cyber Adversaries,China / Russia / other named actors,2013,small bar/number summaries,文字部分可辨；不完整录入
+D05,Adversary Targets per Industry,industry list,2013,horizontal bars,行业条形；精确值待核
